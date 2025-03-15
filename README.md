@@ -1,7 +1,7 @@
 # Resume:
-(925) 765 2532 ● zachaditya@berkeley.edu ● LinkedIn
-University of California, Berkeley
-Bachelor of Arts in Data Science in Business and Industrial analytics | GPA: 3.3
+(925) 765 2532 ● zachaditya@berkeley.edu ● LinkedIn <br>
+University of California, Berkeley <br>
+Bachelor of Arts in Data Science in Business and Industrial analytics | GPA: 3.3 <br>
 Relevant Coursework: Business Analytics, Data Structures, Finance, Statistical Probability, Linear Modelling Diablo Valley College (DVC)
 Applied Mathematics | GPA: 3.9
 Skills
