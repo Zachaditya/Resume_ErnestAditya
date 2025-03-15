@@ -1,8 +1,8 @@
-# Resume  
+# RESUME 📄  
 
 📞 (925) 765 2532 ● 📧 zachaditya@berkeley.edu ● [LinkedIn](#)  
 
-## Education  
+## Education 📚 
 **University of California, Berkeley**  
 **Bachelor of Arts in Data Science in Business and Industrial Analytics** | GPA: 3.3  
 Relevant Coursework: Business Analytics, Data Structures, Finance, Statistical Probability, Linear Modelling  
@@ -10,24 +10,29 @@ Relevant Coursework: Business Analytics, Data Structures, Finance, Statistical P
 **Diablo Valley College (DVC)**  
 **Applied Mathematics** | GPA: 3.9  
 
-## Skills  
+## Skills 📝
 **Programming:** Python, SQL, R, Java, C++, Kotlin, Solidity, HTML, CSS, JavaScript  
 **Data Visualization:** Tableau, Seaborn, Matplotlib  
 **Data Science:** Pandas, TensorFlow, Scikit-Learn, PyTorch, Microsoft Excel  
 
-## Personal Projects  
-### Interactive Tableau Dashboard  
+## Personal Projects 👾
+### Interactive Tableau Dashboard | Tech Used: SQL & Tableau
 - Designed an interactive Tableau dashboard to visualize sales metrics, highlighting top-performing products and underperforming categories for revenue optimization  
 
-### E-Commerce Prediction System (December 2024)  
+### E-Commerce Prediction System | Tech Used: Python, Pandas, Scikit-learn, NLP, FuzzyWuzzy, Cosine Similarity, Tokenzation, HTML, CSS and Javascript (December 2024) 
 - Built a search engine to recommend products based on user search queries using Natural Language Processing (NLP)  
-- Implemented tokenization, TF-IDF vectorization, and cosine similarity to match user queries from the Walmart catalog  
+- Implemented tokenization, TF-IDF vectorization, and cosine similarity to match user queries from the Walmart catalog
+- Built an e-commerce website frontend using HTML, CSS and Javascript allowing users to search for products easily
 
-### S&P 500 Predictor (November 2024)  
+### S&P 500 Predictor | Tech Used: Python, Pandas, Scikit-learn, Jupyter Notebook (November 2024)  
 - Developed a machine learning model using a Random Forest Classifier to predict S&P 500 stock price movements  
-- Achieved a testing precision score of 67% by engineering key financial features and optimizing hyperparameters  
-
-## Professional Experience  
+- Achieved a testing precision score of 67% by engineering key financial features and optimizing hyperparameters
+  
+### Spotify Playlist Predictor | Tech Used: Python,Pandas, Scikit-learn, HTML, CSS and Javascript (Ongoing)
+- Developing a machine learning model to create a tailored playlist for user's entered songs
+- Built a search engine for users to find and enter their favorite songs (similar to add-to-cart)
+  
+## Professional Experience 👔
 ### **Spero Studios - Research Assistant** | San Francisco, CA (October 2022 – December 2022)  
 - Analyzed over 20 top-performing arcade games in Southeast Asia to identify recurring trends and user preferences  
 - Utilized Google Trends and Twitch Tracker to propose actionable in-game aesthetics, contributing to the team securing 2nd runner-up at the Polygon Development Hackathon out of 100+ competitors  
@@ -45,7 +50,7 @@ Relevant Coursework: Business Analytics, Data Structures, Finance, Statistical P
 - Founded and managed an online high-end sneaker reselling business, selling 10+ pairs priced at an average of $300 each, achieving a 17.3% average profit margin per sale  
 - Handled business operations, including product sourcing, pricing, digital marketing, and customer engagement  
 
-## Extracurricular Activities  
+## Extracurricular Activities 📘 
 ### **DVC Blockchain – Vice President and Co-Founding Officer** | Pleasant Hill, CA (September 2022 - May 2023)  
 - Co-founded and led a blockchain-focused student organization with ten main team members, growing a community to 200+ followers through strategic social media campaigns and outreach initiatives  
 - Spearheaded the planning and execution of a workshop featuring a prominent blockchain startup founder, attracting and engaging over 80 attendees  
